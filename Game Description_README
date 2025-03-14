@@ -1,0 +1,6 @@
+// The game is a simple 2D shooting game where the player must defeat two enemies without depleting their health with two health boosts. The objective is to survive and eliminate the enemies before they defeat the player.
+
+Setup Instructions: Open the game folder and locate the main game file and run the game using Unity
+Use the arrow controls to move and just click your mouse to shoot and space bar to jump
+Reflection:
+Creating this game taught me the fundamentals of game development. The shooting mechanics worked well as it was originally implimented into the game, and the addition of health boosts added a fun touch. However, I had to troubleshoot some bugs related to enemy placing and changing colors, because their were so many files and aspects to change in the app. It was a great learning experience that improved my problem-solving skills.
